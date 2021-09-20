@@ -1,0 +1,26 @@
+{
+  "name": "jest-crash-course",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/watch?v=7r4xVDI2vho&t=119s",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "testwatch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spencer-Sch/Jest-Crash-Course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spencer-Sch/Jest-Crash-Course/issues"
+  },
+  "homepage": "https://github.com/Spencer-Sch/Jest-Crash-Course#readme",
+  "devDependencies": {
+    "jest": "^27.2.1"
+  },
+  "dependencies": {
+    "axios": "^0.21.4"
+  }
+}
